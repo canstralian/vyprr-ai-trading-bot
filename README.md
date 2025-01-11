@@ -119,3 +119,18 @@ We welcome contributions from the community! If you would like to improve the bo
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
 ---
+
+To enhance your understanding of building a live trading bot in Python, you might find the following video tutorial helpful:
+
+[Live Trading Bot Strategy in Python](https://www.youtube.com/watch?v=bZhtvvFm17A)
+
+This tutorial delves into the development of live trading bots using Python, providing practical insights and strategies.
+
+Additionally, here's another resource that offers a step-by-step guide to building a Python trading bot:
+
+[How To Build A Trading Bot In Python](https://www.youtube.com/watch?v=WcfKaZL4vpA)
+
+This video demonstrates how to utilize APIs in Python to create a live trading bot, covering essential aspects of the process.
+
+These resources should provide valuable guidance as you develop your trading bot. 
+---
